@@ -1,0 +1,5 @@
+[
+  "test_tags.py::test_tags::test_get_similarities",
+  "test_tags.py::test_tags::test_get_tags",
+  "test_tags.py::test_tags::test_get_top_tags"
+]

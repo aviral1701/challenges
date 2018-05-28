@@ -28,3 +28,5 @@ LETTER_SCORES = dict(zip(
 assert LETTER_SCORES['A'] == 1
 assert LETTER_SCORES['Q'] == 10
 assert sum(LETTER_SCORES.values()) == 87
+
+#print(DICTIONARY)

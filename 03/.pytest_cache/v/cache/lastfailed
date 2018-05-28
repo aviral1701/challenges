@@ -1,0 +1,4 @@
+{
+  "test_tags.py::test_tags::test_get_similarities": true,
+  "test_tags.py::test_tags::test_get_tags": true
+}

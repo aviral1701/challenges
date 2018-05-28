@@ -1,0 +1,2 @@
+('Use this letters to make a word:', ['W', 'G', 'Y', 'N', 'S', 'R', 'N'])
+('Use this letters to make a word:', ['E', 'R', 'F', 'E', 'S', 'E', 'E'])
